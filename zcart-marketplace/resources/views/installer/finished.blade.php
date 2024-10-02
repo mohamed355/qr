@@ -30,7 +30,6 @@
   </p>
 
   <br /><br />
-
   <div class="buttons">
     <a href="{{ route('Installer.seedDemo') }}" class="button" onclick="btnBusy(event)" style="background-color: transparent; color: #1d73a2; border: 1px solid #1d73a2;">
       {!! trans('installer_messages.final.import_demo_data') !!}
